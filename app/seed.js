@@ -10,7 +10,7 @@ function generateVoteCount() {
       url: '#',
       votes: generateVoteCount(),
       submitterAvatarUrl: 'images/avatars/128.jpg',
-      productImageUrl: 'images/products/image-aqua.png',
+      productImageUrl: 'http://hopperinnovative.com/wp-content/uploads/2016/02/img-01.png',
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ function generateVoteCount() {
       url: '#',
       votes: generateVoteCount(),
       submitterAvatarUrl: 'images/avatars/129.jpg',
-      productImageUrl: 'images/products/image-rose.png',
+      productImageUrl: 'https://www.cyberpowerpc.com/images/cs/ZeusMiniII/blk_400.png',
     },
     {
       id: 3,
@@ -28,7 +28,7 @@ function generateVoteCount() {
       url: '#',
       votes: generateVoteCount(),
       submitterAvatarUrl: 'images/avatars/130.jpg',
-      productImageUrl: 'images/products/image-steel.png',
+      productImageUrl: 'https://1.bp.blogspot.com/-OaHUeDy3Fhk/VVo2nga1N1I/AAAAAAAABSI/-KfwxJNlZJY/w800-h800/format.png',
     },
     {
       id: 4,
@@ -37,7 +37,7 @@ function generateVoteCount() {
       url: '#',
       votes: generateVoteCount(),
       submitterAvatarUrl: 'images/avatars/131.jpg',
-      productImageUrl: 'images/products/image-yellow.png',
+      productImageUrl: 'http://www.intel.com/content/dam/www/public/us/en/images/product/16x9/minipc-feature-size-16x9.png.rendition.intel.web.576.324.png',
     },
   ];
 
